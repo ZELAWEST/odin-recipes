@@ -1,0 +1,13 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1,h2,h3,h4{
+    font-weight: 800;
+    color: rgba(73, 73, 211, 0.789);
+   
+}
+ul,ol{
+    background-color: rgba(73, 73, 211, 0.789);
+    color: white;
+    width: 720px;
+}
