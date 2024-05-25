@@ -1,0 +1,28 @@
+body{
+    max-width: 600px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 80px auto;
+    /* padding:10px 5px 5px 100px; */
+    border: 2px dotted rgb(113, 175, 206);
+    padding: 20px;
+    color: rgb(202, 23, 23);
+    background-color: aliceblue;
+}
+h1,ul{
+    margin: 0;
+    /* padding:10px; */
+    background-color: rgb(113, 175, 206);
+    list-style: none;
+}
+h1{
+    padding: 20px;
+}
+ul{
+    
+    padding-bottom: 10px;
+}
+
+li a{
+    color: rgb(202, 23, 23);
+    text-decoration: none;
+}
